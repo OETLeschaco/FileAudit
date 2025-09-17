@@ -669,8 +669,8 @@ vb:[-2,-2,150,30]
 Slide390:{
 lb:'',
 id:390,
-from:1,
-to:90,
+from:2161,
+to:2250,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -54980,8 +54980,8 @@ visible:'1'
 si35284:{
 name:'Hotspot_Widget_2',
 type:1268,
-from:991,
-to:1080,
+from:1981,
+to:2070,
 rp:0,
 rpa:0,
 mdi:'si35284c',
@@ -55164,8 +55164,8 @@ vb:[-1,-1,1,1]
 si34412:{
 name:'Text_246',
 type:1250,
-from:991,
-to:1080,
+from:1981,
+to:2070,
 rp:0,
 rpa:0,
 mdi:'si34412c',
@@ -55195,7 +55195,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"6lati","text":"STEP 3 & 4: CAUSED BY & FINANCIAL DEVIATION REASON ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":51,"style":"fontFamily:TK-arial--Arial"},{"offset":0,"length":51,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":51,"style":"fontType:"},{"offset":0,"length":51,"style":"letterSpacing:0%"},{"offset":0,"length":51,"style":"textHighlightEnable:false"},{"offset":0,"length":51,"style":"textTransform:none"},{"offset":0,"length":51,"style":"color:#020C1C"},{"offset":0,"length":51,"style":"textShadowOpacity:none"},{"offset":0,"length":51,"style":"overridden:true"},{"offset":0,"length":51,"style":"desktop-fontSize:40"},{"offset":0,"length":51,"style":"lineHeight:120%"},{"offset":0,"length":51,"style":"textDecoration:none"},{"offset":0,"length":51,"style":"borderBottomStyle:none"},{"offset":0,"length":51,"style":"textShadowEnable:false"},{"offset":0,"length":51,"style":"hlnk:"},{"offset":0,"length":51,"style":"fontWeight:normal"},{"offset":0,"length":51,"style":"textShadowBlur:8px"},{"offset":0,"length":51,"style":"backgroundColor:unset"},{"offset":0,"length":51,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":51,"style":"hlnkt:wp"},{"offset":0,"length":51,"style":"fontStyle:normal"},{"offset":0,"length":51,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":51,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":51,"style":"textOutlineEnable:false"},{"offset":0,"length":51,"style":"tablet-fontSize:32"},{"offset":0,"length":51,"style":"opacity:1"},{"offset":0,"length":51,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":51,"style":"hlnke:true"},{"offset":0,"length":51,"style":"defaultTextShadow:none"},{"offset":0,"length":51,"style":"mobile-fontSize:28"},{"offset":0,"length":51,"style":"textShadow:none"},{"offset":0,"length":51,"style":"textShadowX:0px"},{"offset":0,"length":51,"style":"fontStretch:normal"},{"offset":0,"length":51,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":51,"style":"textShadowY:4px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-5","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"6lati","text":"STEP 2 & 3: CAUSED BY & FINANCIAL DEVIATION REASON ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":51,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":51,"style":"hlnke:true"},{"offset":0,"length":51,"style":"defaultTextShadow:none"},{"offset":0,"length":51,"style":"mobile-fontSize:28"},{"offset":0,"length":51,"style":"textShadow:none"},{"offset":0,"length":51,"style":"textShadowX:0px"},{"offset":0,"length":51,"style":"fontStretch:normal"},{"offset":0,"length":51,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":51,"style":"textShadowY:4px"},{"offset":0,"length":51,"style":"fontFamily:TK-arial--Arial"},{"offset":0,"length":51,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":51,"style":"fontType:"},{"offset":0,"length":51,"style":"letterSpacing:0%"},{"offset":0,"length":51,"style":"textHighlightEnable:false"},{"offset":0,"length":51,"style":"textTransform:none"},{"offset":0,"length":51,"style":"color:#020C1C"},{"offset":0,"length":51,"style":"textShadowOpacity:none"},{"offset":0,"length":51,"style":"overridden:true"},{"offset":0,"length":51,"style":"desktop-fontSize:40"},{"offset":0,"length":51,"style":"lineHeight:120%"},{"offset":0,"length":51,"style":"textDecoration:none"},{"offset":0,"length":51,"style":"borderBottomStyle:none"},{"offset":0,"length":51,"style":"textShadowEnable:false"},{"offset":0,"length":51,"style":"hlnk:"},{"offset":0,"length":51,"style":"fontWeight:normal"},{"offset":0,"length":51,"style":"textShadowBlur:8px"},{"offset":0,"length":51,"style":"backgroundColor:unset"},{"offset":0,"length":51,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":51,"style":"hlnkt:wp"},{"offset":0,"length":51,"style":"fontStyle:normal"},{"offset":0,"length":51,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":51,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":51,"style":"textOutlineEnable:false"},{"offset":0,"length":51,"style":"tablet-fontSize:32"},{"offset":0,"length":51,"style":"opacity:1"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-5","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -69683,8 +69683,8 @@ vb:[-2,-2,-1,-1]
 Slide35306:{
 lb:'Chapter 3 B',
 id:35306,
-from:991,
-to:1080,
+from:1981,
+to:2070,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -75697,8 +75697,8 @@ vb:[-2,-2,-1,-1]
 Slide36856:{
 lb:'Chapter 3 Slide D',
 id:36856,
-from:1171,
-to:1260,
+from:2251,
+to:2340,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -75779,8 +75779,8 @@ visible:'1'
 si36972:{
 name:'Image_11',
 type:1268,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si36972c',
@@ -75947,8 +75947,8 @@ vb:[-1,-1,1,1]
 si36966:{
 name:'Image_Group_11',
 type:1268,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si36966c',
@@ -76120,8 +76120,8 @@ vb:[-1,-1,1,1]
 si36881:{
 name:'C3_Slides_E(2)',
 type:15,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si36881c',
@@ -76303,8 +76303,8 @@ vb:[-1,-1,1177,1037]
 si36909:{
 name:'Image_Group_Text_37',
 type:1268,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si36909c',
@@ -76475,8 +76475,8 @@ vb:[-1,-1,1,1]
 si36893:{
 name:'Text_256',
 type:1250,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si36893c',
@@ -76506,7 +76506,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"9v4b9","text":"Step 5: Cost completed  ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":24,"style":"textOutlineEnable:false"},{"offset":0,"length":24,"style":"opacity:1"},{"offset":0,"length":24,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":24,"style":"hlnke:true"},{"offset":0,"length":24,"style":"defaultTextShadow:none"},{"offset":0,"length":24,"style":"backgroundColor:unset"},{"offset":0,"length":24,"style":"tablet-fontSize:48"},{"offset":0,"length":24,"style":"textShadowX:0px"},{"offset":0,"length":24,"style":"fontStretch:normal"},{"offset":0,"length":24,"style":"color:#333333"},{"offset":0,"length":24,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":24,"style":"textShadowY:4px"},{"offset":0,"length":24,"style":"fontFamily:TK-arial--Arial"},{"offset":0,"length":24,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":24,"style":"fontType:"},{"offset":0,"length":24,"style":"lineHeight:135%"},{"offset":0,"length":24,"style":"letterSpacing:0%"},{"offset":0,"length":24,"style":"textHighlightEnable:false"},{"offset":0,"length":24,"style":"textTransform:none"},{"offset":0,"length":24,"style":"textShadowOpacity:none"},{"offset":0,"length":24,"style":"overridden:true"},{"offset":0,"length":24,"style":"textDecoration:none"},{"offset":0,"length":24,"style":"borderBottomStyle:none"},{"offset":0,"length":24,"style":"textShadowEnable:false"},{"offset":0,"length":24,"style":"hlnk:"},{"offset":0,"length":24,"style":"fontWeight:normal"},{"offset":0,"length":24,"style":"textShadowBlur:8px"},{"offset":0,"length":24,"style":"desktop-fontSize:48"},{"offset":0,"length":24,"style":"mobile-fontSize:32"},{"offset":0,"length":24,"style":"textShadow:none"},{"offset":0,"length":24,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":24,"style":"hlnkt:wp"},{"offset":0,"length":24,"style":"fontStyle:normal"},{"offset":0,"length":24,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":24,"style":"defaultTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-heading-8","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"9v4b9","text":"Step 6: Cost completed  ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":24,"style":"textOutlineEnable:false"},{"offset":0,"length":24,"style":"opacity:1"},{"offset":0,"length":24,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":24,"style":"hlnke:true"},{"offset":0,"length":24,"style":"defaultTextShadow:none"},{"offset":0,"length":24,"style":"backgroundColor:unset"},{"offset":0,"length":24,"style":"tablet-fontSize:48"},{"offset":0,"length":24,"style":"textShadowX:0px"},{"offset":0,"length":24,"style":"fontStretch:normal"},{"offset":0,"length":24,"style":"color:#333333"},{"offset":0,"length":24,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":24,"style":"textShadowY:4px"},{"offset":0,"length":24,"style":"fontFamily:TK-arial--Arial"},{"offset":0,"length":24,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":24,"style":"fontType:"},{"offset":0,"length":24,"style":"lineHeight:135%"},{"offset":0,"length":24,"style":"letterSpacing:0%"},{"offset":0,"length":24,"style":"textHighlightEnable:false"},{"offset":0,"length":24,"style":"textTransform:none"},{"offset":0,"length":24,"style":"textShadowOpacity:none"},{"offset":0,"length":24,"style":"overridden:true"},{"offset":0,"length":24,"style":"textDecoration:none"},{"offset":0,"length":24,"style":"borderBottomStyle:none"},{"offset":0,"length":24,"style":"textShadowEnable:false"},{"offset":0,"length":24,"style":"hlnk:"},{"offset":0,"length":24,"style":"fontWeight:normal"},{"offset":0,"length":24,"style":"textShadowBlur:8px"},{"offset":0,"length":24,"style":"desktop-fontSize:48"},{"offset":0,"length":24,"style":"mobile-fontSize:32"},{"offset":0,"length":24,"style":"textShadow:none"},{"offset":0,"length":24,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":24,"style":"hlnkt:wp"},{"offset":0,"length":24,"style":"fontStyle:normal"},{"offset":0,"length":24,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":24,"style":"defaultTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-heading-8","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -76628,8 +76628,8 @@ vb:[-1,-1,2,2]
 si36903:{
 name:'Text_257',
 type:1250,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si36903c',
@@ -76781,8 +76781,8 @@ vb:[-1,-1,2,2]
 si37160:{
 name:'Block_Button_46',
 type:1268,
-from:1261,
-to:1350,
+from:2341,
+to:2430,
 rp:0,
 rpa:0,
 mdi:'si37160c',
@@ -76949,8 +76949,8 @@ vb:[-1,-1,1,1]
 si37154:{
 name:'Block_Button_Group_46',
 type:1268,
-from:1261,
-to:1350,
+from:2341,
+to:2430,
 rp:0,
 rpa:0,
 mdi:'si37154c',
@@ -77154,8 +77154,8 @@ vb:[-1,-1,1,1]
 si36998:{
 name:'Button_684',
 type:29,
-from:1261,
-to:1350,
+from:2341,
+to:2430,
 rp:0,
 rpa:0,
 mdi:'si36998c',
@@ -77183,6 +77183,7 @@ efph:{
 }
 ,
 eflh:[],
+oca:'{"scripts":[{"then":[["cp.goToSlide(36980,36856);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -77309,8 +77310,8 @@ vb:[-2,-2,-1,-1]
 si37017:{
 name:'Button_685',
 type:29,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si37017c',
@@ -77338,7 +77339,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.goToSlide(37515,);"]]}]}',
+oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(37515);"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -77365,7 +77366,7 @@ siq:false,
 isDD:false
 },
 si37017c:{
-b:[-2,-2,-1,-1],
+b:[-2,0,-1,1],
 fh:false,
 fw:false,
 uid:37017,
@@ -77373,14 +77374,14 @@ iso:false,
 css:{
 430:{
 l:'-0.073%',
-t:'-0.130%',
+t:'0.148%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'0.148%',
 lvID:-1,
 w:'7.442%',
 h:'3.791%',
@@ -77399,14 +77400,14 @@ ipiv:1
 ,
 768:{
 l:'-0.073%',
-t:'-0.130%',
+t:'0.148%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'0.148%',
 lvID:-1,
 w:'4.167%',
 h:'3.125%',
@@ -77425,14 +77426,14 @@ ipiv:1
 ,
 1280:{
 l:'-0.073%',
-t:'-0.130%',
+t:'0.148%',
 b:'auto',
 r:'auto',
 lhEID:0,
 lhV:'-0.073%',
 lhID:-1,
 lvEID:0,
-lvV:'-0.130%',
+lvV:'0.148%',
 lvID:-1,
 w:'2.500%',
 h:'4.444%',
@@ -77459,14 +77460,14 @@ JSONEffectData:false,
 bp:10,
 btha:1,
 fa:100,
-vbwr:[-2,-2,-1,-1],
-vb:[-2,-2,-1,-1]
+vbwr:[-2,0,-1,1],
+vb:[-2,0,-1,1]
 },
 si37036:{
 name:'Button_686',
 type:29,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si37036c',
@@ -77620,8 +77621,8 @@ vb:[-2,-2,-1,-1]
 si37052:{
 name:'Button_687',
 type:29,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si37052c',
@@ -77775,8 +77776,8 @@ vb:[-2,-2,-1,-1]
 si37068:{
 name:'Button_688',
 type:29,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si37068c',
@@ -77930,8 +77931,8 @@ vb:[-2,-2,-1,-1]
 si37084:{
 name:'Button_689',
 type:29,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si37084c',
@@ -78085,8 +78086,8 @@ vb:[-2,-2,-1,-1]
 si37100:{
 name:'Button_690',
 type:29,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si37100c',
@@ -78240,8 +78241,8 @@ vb:[-2,-2,-1,-1]
 si37116:{
 name:'Button_691',
 type:29,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si37116c',
@@ -78395,8 +78396,8 @@ vb:[-2,-2,-1,-1]
 si37132:{
 name:'Button_692',
 type:29,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si37132c',
@@ -78550,8 +78551,8 @@ vb:[-2,-2,-1,-1]
 si37148:{
 name:'Button_693',
 type:29,
-from:1261,
-to:1350,
+from:2071,
+to:2160,
 rp:0,
 rpa:0,
 mdi:'si37148c',
@@ -78705,8 +78706,8 @@ vb:[-2,-2,-1,-1]
 Slide37182:{
 lb:'Chapter 3 Slide E',
 id:37182,
-from:1261,
-to:1350,
+from:2341,
+to:2430,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -96153,7 +96154,7 @@ resources:['dr/030968.svg','dr/031926.svg','dr/039019.png','dr/0568.svg']
 ,{
 slideID:7,
 ResourceList:{
-resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/038374.png','dr/09837.png','dr/09961.png']
+resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/034264.svg','dr/038374.png','dr/09837.png','dr/09961.png']
 }
 
 }
@@ -96167,14 +96168,14 @@ resources:['dr/030968.svg','dr/031926.svg','dr/039340.png','dr/0568.svg']
 ,{
 slideID:9,
 ResourceList:{
-resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/034397.png','dr/09837.png','dr/09961.png']
+resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/025695.svg','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/034264.svg','dr/034397.png','dr/09837.png','dr/09961.png']
 }
 
 }
 ,{
 slideID:10,
 ResourceList:{
-resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/036211.png','dr/09837.png','dr/09961.png']
+resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/017549.svg','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/034264.svg','dr/036211.png','dr/09837.png','dr/09961.png']
 }
 
 }

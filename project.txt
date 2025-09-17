@@ -9890,7 +9890,6 @@
 }
 ,
 "question":{
-"interactionId":"37127",
 "quizId":-1,
 "text":"",
 "type":"graded",
