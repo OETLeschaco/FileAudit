@@ -669,8 +669,8 @@ vb:[-2,-2,150,30]
 Slide390:{
 lb:'',
 id:390,
-from:2161,
-to:2250,
+from:1,
+to:90,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -723,12 +723,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-2417:{
-ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 30648:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+2417:{
+ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -7309,15 +7309,15 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
+3742:{
+ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
 5024:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 ,
 2390:{
-ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
-3742:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
@@ -11226,7 +11226,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"98r45","text":"Today’s Challenges","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":18,"style":"textShadowEnable:false"},{"offset":0,"length":18,"style":"hlnk:"},{"offset":0,"length":18,"style":"textShadowBlur:8px"},{"offset":0,"length":18,"style":"fontFamily:Arial"},{"offset":0,"length":18,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":18,"style":"backgroundColor:unset"},{"offset":0,"length":18,"style":"fontStyle:normal"},{"offset":0,"length":18,"style":"hlnkt:wp"},{"offset":0,"length":18,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":18,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":18,"style":"textOutlineEnable:false"},{"offset":0,"length":18,"style":"mobile-fontSize:14"},{"offset":0,"length":18,"style":"opacity:1"},{"offset":0,"length":18,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":18,"style":"hlnke:true"},{"offset":0,"length":18,"style":"defaultTextShadow:none"},{"offset":0,"length":18,"style":"textShadow:none"},{"offset":0,"length":18,"style":"tablet-fontSize:16"},{"offset":0,"length":18,"style":"textShadowX:0px"},{"offset":0,"length":18,"style":"fontStretch:normal"},{"offset":0,"length":18,"style":"color:#333333"},{"offset":0,"length":18,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":18,"style":"textShadowY:4px"},{"offset":0,"length":18,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":18,"style":"lineHeight:125%"},{"offset":0,"length":18,"style":"letterSpacing:0%"},{"offset":0,"length":18,"style":"textHighlightEnable:false"},{"offset":0,"length":18,"style":"textTransform:none"},{"offset":0,"length":18,"style":"textShadowOpacity:none"},{"offset":0,"length":18,"style":"overridden:true"},{"offset":0,"length":18,"style":"textDecoration:none"},{"offset":0,"length":18,"style":"borderBottomStyle:none"},{"offset":0,"length":18,"style":"fontWeight:bold"},{"offset":0,"length":18,"style":"desktop-fontSize:22"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}},{"key":"3q07g","text":"Our process is manual and fragmented. Maintenance of estimates is incomplete, there is no indication of “Revenue Complete” and cost closing lacks a global standard. Deviations aren’t registered, FX impacts aren’t always visible, and accruals still rely on manual estimates.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":273,"style":"desktop-fontSize:22"},{"offset":0,"length":273,"style":"textShadowEnable:false"},{"offset":0,"length":273,"style":"hlnk:"},{"offset":0,"length":273,"style":"textShadowBlur:8px"},{"offset":0,"length":273,"style":"fontFamily:Arial"},{"offset":0,"length":273,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":273,"style":"fontStyle:normal"},{"offset":0,"length":273,"style":"backgroundColor:unset"},{"offset":0,"length":273,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":273,"style":"hlnkt:wp"},{"offset":0,"length":273,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":273,"style":"textOutlineEnable:false"},{"offset":0,"length":273,"style":"mobile-fontSize:14"},{"offset":0,"length":273,"style":"opacity:1"},{"offset":0,"length":273,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":273,"style":"hlnke:true"},{"offset":0,"length":273,"style":"defaultTextShadow:none"},{"offset":0,"length":273,"style":"textShadow:none"},{"offset":0,"length":273,"style":"tablet-fontSize:16"},{"offset":0,"length":273,"style":"textShadowX:0px"},{"offset":0,"length":273,"style":"fontStretch:normal"},{"offset":0,"length":273,"style":"color:#333333"},{"offset":0,"length":273,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":273,"style":"textShadowY:4px"},{"offset":0,"length":273,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":273,"style":"lineHeight:125%"},{"offset":0,"length":273,"style":"letterSpacing:0%"},{"offset":0,"length":273,"style":"textHighlightEnable:false"},{"offset":0,"length":273,"style":"textTransform:none"},{"offset":0,"length":273,"style":"textShadowOpacity:none"},{"offset":0,"length":273,"style":"overridden:true"},{"offset":0,"length":273,"style":"textDecoration:none"},{"offset":0,"length":273,"style":"borderBottomStyle:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}},{"key":"8niql","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}},{"key":"aict8","text":"The Way Forward","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":15,"style":"borderBottomStyle:none"},{"offset":0,"length":15,"style":"fontWeight:bold"},{"offset":0,"length":15,"style":"desktop-fontSize:22"},{"offset":0,"length":15,"style":"textShadowEnable:false"},{"offset":0,"length":15,"style":"hlnk:"},{"offset":0,"length":15,"style":"textShadowBlur:8px"},{"offset":0,"length":15,"style":"fontFamily:Arial"},{"offset":0,"length":15,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":15,"style":"backgroundColor:unset"},{"offset":0,"length":15,"style":"fontStyle:normal"},{"offset":0,"length":15,"style":"hlnkt:wp"},{"offset":0,"length":15,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":15,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":15,"style":"textOutlineEnable:false"},{"offset":0,"length":15,"style":"mobile-fontSize:14"},{"offset":0,"length":15,"style":"opacity:1"},{"offset":0,"length":15,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":15,"style":"hlnke:true"},{"offset":0,"length":15,"style":"defaultTextShadow:none"},{"offset":0,"length":15,"style":"textShadow:none"},{"offset":0,"length":15,"style":"tablet-fontSize:16"},{"offset":0,"length":15,"style":"textShadowX:0px"},{"offset":0,"length":15,"style":"fontStretch:normal"},{"offset":0,"length":15,"style":"color:#333333"},{"offset":0,"length":15,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":15,"style":"textShadowY:4px"},{"offset":0,"length":15,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":15,"style":"lineHeight:125%"},{"offset":0,"length":15,"style":"letterSpacing:0%"},{"offset":0,"length":15,"style":"textHighlightEnable:false"},{"offset":0,"length":15,"style":"textTransform:none"},{"offset":0,"length":15,"style":"textShadowOpacity:none"},{"offset":0,"length":15,"style":"overridden:true"},{"offset":0,"length":15,"style":"textDecoration:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}},{"key":"8bps","text":"With integrated tools and cleaner data, we’ll gain clarity and control. Improvements include clear status flags, accruals from actual data, audit reports on deviations, FX excluded from tracking, team lead confirmation, of financial deviations and simplified accruals for stronger financial oversight.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":301,"style":"overridden:true"},{"offset":0,"length":301,"style":"textDecoration:none"},{"offset":0,"length":301,"style":"borderBottomStyle:none"},{"offset":0,"length":301,"style":"desktop-fontSize:22"},{"offset":0,"length":301,"style":"textShadowEnable:false"},{"offset":0,"length":301,"style":"hlnk:"},{"offset":0,"length":301,"style":"textShadowBlur:8px"},{"offset":0,"length":301,"style":"fontFamily:Arial"},{"offset":0,"length":301,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":301,"style":"fontStyle:normal"},{"offset":0,"length":301,"style":"backgroundColor:unset"},{"offset":0,"length":301,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":301,"style":"hlnkt:wp"},{"offset":0,"length":301,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":301,"style":"textOutlineEnable:false"},{"offset":0,"length":301,"style":"mobile-fontSize:14"},{"offset":0,"length":301,"style":"opacity:1"},{"offset":0,"length":301,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":301,"style":"hlnke:true"},{"offset":0,"length":301,"style":"defaultTextShadow:none"},{"offset":0,"length":301,"style":"textShadow:none"},{"offset":0,"length":301,"style":"tablet-fontSize:16"},{"offset":0,"length":301,"style":"textShadowX:0px"},{"offset":0,"length":301,"style":"fontStretch:normal"},{"offset":0,"length":301,"style":"color:#333333"},{"offset":0,"length":301,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":301,"style":"textShadowY:4px"},{"offset":0,"length":301,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":301,"style":"lineHeight:125%"},{"offset":0,"length":301,"style":"letterSpacing:0%"},{"offset":0,"length":301,"style":"textHighlightEnable:false"},{"offset":0,"length":301,"style":"textTransform:none"},{"offset":0,"length":301,"style":"textShadowOpacity:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"98r45","text":"Today’s Challenges","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":18,"style":"hlnkt:wp"},{"offset":0,"length":18,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":18,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":18,"style":"textOutlineEnable:false"},{"offset":0,"length":18,"style":"mobile-fontSize:14"},{"offset":0,"length":18,"style":"opacity:1"},{"offset":0,"length":18,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":18,"style":"hlnke:true"},{"offset":0,"length":18,"style":"defaultTextShadow:none"},{"offset":0,"length":18,"style":"textShadow:none"},{"offset":0,"length":18,"style":"tablet-fontSize:16"},{"offset":0,"length":18,"style":"textShadowX:0px"},{"offset":0,"length":18,"style":"fontStretch:normal"},{"offset":0,"length":18,"style":"color:#333333"},{"offset":0,"length":18,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":18,"style":"textShadowY:4px"},{"offset":0,"length":18,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":18,"style":"lineHeight:125%"},{"offset":0,"length":18,"style":"letterSpacing:0%"},{"offset":0,"length":18,"style":"textHighlightEnable:false"},{"offset":0,"length":18,"style":"textTransform:none"},{"offset":0,"length":18,"style":"textShadowOpacity:none"},{"offset":0,"length":18,"style":"overridden:true"},{"offset":0,"length":18,"style":"textDecoration:none"},{"offset":0,"length":18,"style":"borderBottomStyle:none"},{"offset":0,"length":18,"style":"fontWeight:bold"},{"offset":0,"length":18,"style":"desktop-fontSize:22"},{"offset":0,"length":18,"style":"textShadowEnable:false"},{"offset":0,"length":18,"style":"hlnk:"},{"offset":0,"length":18,"style":"textShadowBlur:8px"},{"offset":0,"length":18,"style":"fontFamily:Arial"},{"offset":0,"length":18,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":18,"style":"backgroundColor:unset"},{"offset":0,"length":18,"style":"fontStyle:normal"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}},{"key":"3q07g","text":"Our process is manual and fragmented. Maintenance of estimates is incomplete, there is no indication of “Revenue Complete” and cost closing lacks a global standard. Deviations aren’t registered, FX impacts aren’t always visible, and accruals still rely on manual estimates.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":273,"style":"fontStyle:normal"},{"offset":0,"length":273,"style":"backgroundColor:unset"},{"offset":0,"length":273,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":273,"style":"hlnkt:wp"},{"offset":0,"length":273,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":273,"style":"textOutlineEnable:false"},{"offset":0,"length":273,"style":"mobile-fontSize:14"},{"offset":0,"length":273,"style":"opacity:1"},{"offset":0,"length":273,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":273,"style":"hlnke:true"},{"offset":0,"length":273,"style":"defaultTextShadow:none"},{"offset":0,"length":273,"style":"textShadow:none"},{"offset":0,"length":273,"style":"tablet-fontSize:16"},{"offset":0,"length":273,"style":"textShadowX:0px"},{"offset":0,"length":273,"style":"fontStretch:normal"},{"offset":0,"length":273,"style":"color:#333333"},{"offset":0,"length":273,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":273,"style":"textShadowY:4px"},{"offset":0,"length":273,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":273,"style":"lineHeight:125%"},{"offset":0,"length":273,"style":"letterSpacing:0%"},{"offset":0,"length":273,"style":"textHighlightEnable:false"},{"offset":0,"length":273,"style":"textTransform:none"},{"offset":0,"length":273,"style":"textShadowOpacity:none"},{"offset":0,"length":273,"style":"overridden:true"},{"offset":0,"length":273,"style":"textDecoration:none"},{"offset":0,"length":273,"style":"borderBottomStyle:none"},{"offset":0,"length":273,"style":"desktop-fontSize:22"},{"offset":0,"length":273,"style":"textShadowEnable:false"},{"offset":0,"length":273,"style":"hlnk:"},{"offset":0,"length":273,"style":"textShadowBlur:8px"},{"offset":0,"length":273,"style":"fontFamily:Arial"},{"offset":0,"length":273,"style":"WebkitTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}},{"key":"8niql","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}},{"key":"aict8","text":"The Way Forward","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":15,"style":"fontFamily:Arial"},{"offset":0,"length":15,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":15,"style":"backgroundColor:unset"},{"offset":0,"length":15,"style":"fontStyle:normal"},{"offset":0,"length":15,"style":"hlnkt:wp"},{"offset":0,"length":15,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":15,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":15,"style":"textOutlineEnable:false"},{"offset":0,"length":15,"style":"mobile-fontSize:14"},{"offset":0,"length":15,"style":"opacity:1"},{"offset":0,"length":15,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":15,"style":"hlnke:true"},{"offset":0,"length":15,"style":"defaultTextShadow:none"},{"offset":0,"length":15,"style":"textShadow:none"},{"offset":0,"length":15,"style":"tablet-fontSize:16"},{"offset":0,"length":15,"style":"textShadowX:0px"},{"offset":0,"length":15,"style":"fontStretch:normal"},{"offset":0,"length":15,"style":"color:#333333"},{"offset":0,"length":15,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":15,"style":"textShadowY:4px"},{"offset":0,"length":15,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":15,"style":"lineHeight:125%"},{"offset":0,"length":15,"style":"letterSpacing:0%"},{"offset":0,"length":15,"style":"textHighlightEnable:false"},{"offset":0,"length":15,"style":"textTransform:none"},{"offset":0,"length":15,"style":"textShadowOpacity:none"},{"offset":0,"length":15,"style":"overridden:true"},{"offset":0,"length":15,"style":"textDecoration:none"},{"offset":0,"length":15,"style":"borderBottomStyle:none"},{"offset":0,"length":15,"style":"fontWeight:bold"},{"offset":0,"length":15,"style":"desktop-fontSize:22"},{"offset":0,"length":15,"style":"textShadowEnable:false"},{"offset":0,"length":15,"style":"hlnk:"},{"offset":0,"length":15,"style":"textShadowBlur:8px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}},{"key":"8bps","text":"With integrated tools and cleaner data, we’ll gain clarity and control. Improvements include clear status flags, accruals from actual data, audit reports on deviations, FX excluded from tracking, team lead confirmation of financial deviations and simplified accruals for stronger financial oversight.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":300,"style":"textShadowBlur:8px"},{"offset":0,"length":300,"style":"fontFamily:Arial"},{"offset":0,"length":300,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":300,"style":"fontStyle:normal"},{"offset":0,"length":300,"style":"backgroundColor:unset"},{"offset":0,"length":300,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":300,"style":"hlnkt:wp"},{"offset":0,"length":300,"style":"WebkitTextStrokeColor:#F1EEE6"},{"offset":0,"length":300,"style":"textOutlineEnable:false"},{"offset":0,"length":300,"style":"mobile-fontSize:14"},{"offset":0,"length":300,"style":"opacity:1"},{"offset":0,"length":300,"style":"defaultTextStrokeColor:#F1EEE6"},{"offset":0,"length":300,"style":"hlnke:true"},{"offset":0,"length":300,"style":"defaultTextShadow:none"},{"offset":0,"length":300,"style":"textShadow:none"},{"offset":0,"length":300,"style":"tablet-fontSize:16"},{"offset":0,"length":300,"style":"textShadowX:0px"},{"offset":0,"length":300,"style":"fontStretch:normal"},{"offset":0,"length":300,"style":"color:#333333"},{"offset":0,"length":300,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":300,"style":"textShadowY:4px"},{"offset":0,"length":300,"style":"textShadowColor:#F1EEE61F"},{"offset":0,"length":300,"style":"lineHeight:125%"},{"offset":0,"length":300,"style":"letterSpacing:0%"},{"offset":0,"length":300,"style":"textHighlightEnable:false"},{"offset":0,"length":300,"style":"textTransform:none"},{"offset":0,"length":300,"style":"textShadowOpacity:none"},{"offset":0,"length":300,"style":"overridden:true"},{"offset":0,"length":300,"style":"textDecoration:none"},{"offset":0,"length":300,"style":"borderBottomStyle:none"},{"offset":0,"length":300,"style":"desktop-fontSize:22"},{"offset":0,"length":300,"style":"textShadowEnable:false"},{"offset":0,"length":300,"style":"hlnk:"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-6","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -22358,12 +22358,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-38816:{
-ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 38838:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+38816:{
+ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -40175,12 +40175,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-39137:{
-ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 39159:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+39137:{
+ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -54956,12 +54956,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-34379:{
-ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 34396:{
 ts:''
+}
+,
+34379:{
+ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -54980,8 +54980,8 @@ visible:'1'
 si35284:{
 name:'Hotspot_Widget_2',
 type:1268,
-from:1981,
-to:2070,
+from:991,
+to:1080,
 rp:0,
 rpa:0,
 mdi:'si35284c',
@@ -55164,8 +55164,8 @@ vb:[-1,-1,1,1]
 si34412:{
 name:'Text_246',
 type:1250,
-from:1981,
-to:2070,
+from:991,
+to:1080,
 rp:0,
 rpa:0,
 mdi:'si34412c',
@@ -69683,8 +69683,8 @@ vb:[-2,-2,-1,-1]
 Slide35306:{
 lb:'Chapter 3 B',
 id:35306,
-from:1981,
-to:2070,
+from:991,
+to:1080,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -72746,12 +72746,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-37508:{
-ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 36331:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+37508:{
+ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -75697,8 +75697,8 @@ vb:[-2,-2,-1,-1]
 Slide36856:{
 lb:'Chapter 3 Slide D',
 id:36856,
-from:2251,
-to:2340,
+from:1171,
+to:1260,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -75755,12 +75755,12 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-36654:{
-ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
-}
-,
 36676:{
 ts:'{"effect":3,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
+}
+,
+36654:{
+ts:'{"effect":4,"duration":0.6,"delay":0,"acceleration":0,"repeat":1}'
 }
 
 }
@@ -75779,8 +75779,8 @@ visible:'1'
 si36972:{
 name:'Image_11',
 type:1268,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si36972c',
@@ -75947,8 +75947,8 @@ vb:[-1,-1,1,1]
 si36966:{
 name:'Image_Group_11',
 type:1268,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si36966c',
@@ -76120,8 +76120,8 @@ vb:[-1,-1,1,1]
 si36881:{
 name:'C3_Slides_E(2)',
 type:15,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si36881c',
@@ -76303,8 +76303,8 @@ vb:[-1,-1,1177,1037]
 si36909:{
 name:'Image_Group_Text_37',
 type:1268,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si36909c',
@@ -76475,8 +76475,8 @@ vb:[-1,-1,1,1]
 si36893:{
 name:'Text_256',
 type:1250,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si36893c',
@@ -76628,8 +76628,8 @@ vb:[-1,-1,2,2]
 si36903:{
 name:'Text_257',
 type:1250,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si36903c',
@@ -76781,8 +76781,8 @@ vb:[-1,-1,2,2]
 si37160:{
 name:'Block_Button_46',
 type:1268,
-from:2341,
-to:2430,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37160c',
@@ -76949,8 +76949,8 @@ vb:[-1,-1,1,1]
 si37154:{
 name:'Block_Button_Group_46',
 type:1268,
-from:2341,
-to:2430,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37154c',
@@ -77154,8 +77154,8 @@ vb:[-1,-1,1,1]
 si36998:{
 name:'Button_684',
 type:29,
-from:2341,
-to:2430,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si36998c',
@@ -77310,8 +77310,8 @@ vb:[-2,-2,-1,-1]
 si37017:{
 name:'Button_685',
 type:29,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37017c',
@@ -77466,8 +77466,8 @@ vb:[-2,0,-1,1]
 si37036:{
 name:'Button_686',
 type:29,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37036c',
@@ -77621,8 +77621,8 @@ vb:[-2,-2,-1,-1]
 si37052:{
 name:'Button_687',
 type:29,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37052c',
@@ -77776,8 +77776,8 @@ vb:[-2,-2,-1,-1]
 si37068:{
 name:'Button_688',
 type:29,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37068c',
@@ -77931,8 +77931,8 @@ vb:[-2,-2,-1,-1]
 si37084:{
 name:'Button_689',
 type:29,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37084c',
@@ -78086,8 +78086,8 @@ vb:[-2,-2,-1,-1]
 si37100:{
 name:'Button_690',
 type:29,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37100c',
@@ -78241,8 +78241,8 @@ vb:[-2,-2,-1,-1]
 si37116:{
 name:'Button_691',
 type:29,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37116c',
@@ -78396,8 +78396,8 @@ vb:[-2,-2,-1,-1]
 si37132:{
 name:'Button_692',
 type:29,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37132c',
@@ -78551,8 +78551,8 @@ vb:[-2,-2,-1,-1]
 si37148:{
 name:'Button_693',
 type:29,
-from:2071,
-to:2160,
+from:1261,
+to:1350,
 rp:0,
 rpa:0,
 mdi:'si37148c',
@@ -78706,8 +78706,8 @@ vb:[-2,-2,-1,-1]
 Slide37182:{
 lb:'Chapter 3 Slide E',
 id:37182,
-from:2341,
-to:2430,
+from:1261,
+to:1350,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -96154,7 +96154,7 @@ resources:['dr/030968.svg','dr/031926.svg','dr/039019.png','dr/0568.svg']
 ,{
 slideID:7,
 ResourceList:{
-resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/034264.svg','dr/038374.png','dr/09837.png','dr/09961.png']
+resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/038374.png','dr/09837.png','dr/09961.png']
 }
 
 }
@@ -96168,14 +96168,14 @@ resources:['dr/030968.svg','dr/031926.svg','dr/039340.png','dr/0568.svg']
 ,{
 slideID:9,
 ResourceList:{
-resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/025695.svg','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/034264.svg','dr/034397.png','dr/09837.png','dr/09961.png']
+resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/034397.png','dr/09837.png','dr/09961.png']
 }
 
 }
 ,{
 slideID:10,
 ResourceList:{
-resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/017549.svg','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/034264.svg','dr/036211.png','dr/09837.png','dr/09961.png']
+resources:['dr/010085.png','dr/010209.png','dr/010333.png','dr/010457.png','dr/030968.svg','dr/031288.svg','dr/031926.svg','dr/036211.png','dr/09837.png','dr/09961.png']
 }
 
 }
